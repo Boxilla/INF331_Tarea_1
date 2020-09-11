@@ -9,12 +9,14 @@ def main():
   string1 = ''
   string2 = ''
   resultado = ''
-
-  print('ingrese string 1 :')
-  string1 = input()
-
-  print('ingrese string 2 :')
-  string2 = input()
+  
+  while (len(string1) == 0):
+    print('ingrese string 1 :')
+    string1 = input()
+  
+  while (len(string2) == 0):
+    print('ingrese string 2 :')
+    string2 = input()
 
   resultado = compareStrings(string1, string2)
 
