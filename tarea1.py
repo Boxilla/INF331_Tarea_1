@@ -2,7 +2,7 @@ from datetime import datetime
 
 def main():
 
-  log = open("log.txt", 'a')
+  log = open("log_prueba_tarea1_inf331.txt", 'a')
   ahora = datetime.now()
   dataLog = '{ ' + 'fecha : "{}" , '.format(ahora)
 
