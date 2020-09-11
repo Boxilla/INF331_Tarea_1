@@ -2,6 +2,8 @@
 
 python 3.6.9
 
+ejecutar en IDLE de python o jupyter notebook
+
 ejecutar con permisos de administrador o root
 
 al ejecutar pide un string y luego el otro, hay que apretar enter luego de ingresar cada string
