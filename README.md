@@ -13,7 +13,7 @@ Si se ingresan simbolos unicode, estos se escribiran codificados en utf-8 en el 
 
 ## Ejecucion
 
-Para ocupar correctamente el programa se debe ejecutar en un jupyter notebook en el IDLE de python. Es decir si se quieren incluir simbolos en unicode. 
+Para ocupar correctamente el programa se debe ejecutar en un Jupyter Notebook o en su defecto en el IDLE de python pero este ultimo no funciona adecuadamente con cadenas muy largas. Es decir si se quieren incluir simbolos en unicode. 
 
 Si las cadenas pertencen a utf-8 entonces basta con tener una version de python 3.x.x y ejecutar el programa en el ambiente que prefiera.
 
