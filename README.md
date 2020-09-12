@@ -28,11 +28,12 @@ En ubuntu se ejecutaria de la siguiente forma estando en el directorio donde se 
 python3 Tarea1.py
 ```
 
-## Usage
-
+## Uso
 Luego de ejecutar el programa este pedira primero un string donde se debe escribir la cadena que se desee comparar y luego presionar enter, despues pedira un segundo string donde se debe realizar el mismo procedimiento que para el primer string.
 
-El programa solo recibe cadenas de largo mayor a 0, por lo que si no se ingresa ninguna cadena el programa pedira una hasta que se ingrese alguna
+El programa solo recibe cadenas de largo mayor a 0, por lo que si no se ingresa ninguna cadena el programa pedira una hasta que se ingrese alguna.
+
+Para finalizar el programa se debe presionar la tecla Enter, como lo indica por pantalla el mismo programa.
 
 ```bash
 'ingrese string 1 :'
